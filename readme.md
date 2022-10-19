@@ -1,4 +1,4 @@
-    mon nom:
-    Mon exp
-    attentes du cours
-    attentes prog
+    Mon nom:
+    Mon expérience en programmation:
+    Attentes du cours:
+    Attentes du programme:
